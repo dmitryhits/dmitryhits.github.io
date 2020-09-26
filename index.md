@@ -1,6 +1,4 @@
-Hello and welcome to this blog.
-
-## My Blog
+## Dmitry's Blog
 
 This is a trial site: 
 
@@ -15,4 +13,4 @@ Let's include pictures:
 
 ![A Bear](/images/Feature-2-1.jpg)
 
-Link to the [ETH Lab course:](https://vp.phys.ethz.ch/Assistenten/index.php)
+Link to the [PSI analysis](http://diamond.phys.ethz.ch/psi/)
